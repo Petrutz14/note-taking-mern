@@ -22,6 +22,8 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for cre
 - **API:** RESTful endpoints  
 - **Styling:** Tailwind, DaisyUI
 
+---
+
 ## 🏗️ Structure
 
 ```
