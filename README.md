@@ -5,10 +5,9 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for cre
 ---
 
 ## 📦 Features
-
-- User authentication (sign up / login)  
+ 
 - Create, edit & delete notes  
-- View all your notes in a list or card layout  
+- View all your notes in a card layout  
 - Real-time syncing between frontend and backend  
 - Responsive design for desktop and mobile  
 
