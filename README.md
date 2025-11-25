@@ -22,6 +22,9 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) web application for cre
 - **API:** RESTful endpoints  
 - **Styling:** Tailwind, DaisyUI
 
+## 🏗️ Structure
+
+```
 note-taking-mern/
 ├── backend/               # Node.js + Express server
 │   ├── models/            # Mongoose models (e.g., Note, User)
@@ -38,3 +41,4 @@ note-taking-mern/
 │   └── public/
 │
 └── README.md
+```
